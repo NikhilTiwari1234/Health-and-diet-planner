@@ -1,0 +1,38 @@
+i want to make an webapp for virtual health and diet planner, use streamlit in frontend,first it will have an landing page where will be different photos in unique design and a brief about our project which is 🔹 Objective
+
+To create a simple and personalized web app that allows users to enter their basic details (age, height, weight, lifestyle, and goal) and instantly get:
+
+BMI and calorie needs
+
+Diet suggestions (veg/non-veg/vegan)
+
+Exercise recommendations (weight loss, gain, muscle building, flexibility, posture, or maintenance)
+
+🔹 How It Works
+
+User Input → Age, gender, height, weight, activity level, goal, and diet preference.
+
+Health Calculations → BMI, BMR, and Target Calories.
+
+Recommendations → Food suggestions (from CSV/DB) + Exercise plans based on the chosen goal.
+
+Output → Results displayed in a user-friendly Streamlit app with personalized health advice. 
+
+than on clicking login button on landing page it will redirect on an login page and registration page where user will login and if user does registration than it will open an form in which will ask user for age, gender, height, weight, activity level, goal(lose weight, gain weight, maintanance, etc.), diet preference(veg/non-veg) and than it will calculate all necessary things like BMR, BMI, Target calories, etc. and then redirect on dashboard where user will get diet suggestions and exercise suggestions, and this page will have an horizontal menu bar on top(below of the page title) which will contain three options one is the itself dashboard, and other one is for daily goals(which will be given on base of user's information and goal) , and third one will be of progress which will show the users progress by time on graphs. 
+
+
+try to make it as real life webapps add all minor and important things which every website or webapp have, and this is all for a demo purpose so prepare it as it give and show some data which can be from predefined dataset(not so huge but also not so small), and that it can remember users
+
+
+this was my already created folder structure
+
+virtual-health-and-diet-planner/
+  ├─ app.py
+  ├─ foods.csv
+  ├─ exercises.csv
+
+
+and you can tell me all other files i have to create like for user data and anything else i will create it.
+
+
+and make it  attractive and beautiful

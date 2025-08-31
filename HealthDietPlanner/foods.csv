@@ -1,0 +1,31 @@
+food_name,category,calories_per_100g,protein,carbs,fat,fiber,diet_type,goal_suitability
+Quinoa,Grains,368,14.1,64.2,6.1,7.0,veg,weight_loss
+Brown Rice,Grains,362,7.9,76.0,2.9,3.5,veg,maintenance
+Chicken Breast,Protein,165,31.0,0.0,3.6,0.0,non_veg,muscle_building
+Salmon,Protein,208,25.4,0.0,12.4,0.0,non_veg,muscle_building
+Greek Yogurt,Dairy,97,10.0,3.6,5.0,0.0,veg,weight_loss
+Eggs,Protein,155,13.0,1.1,11.0,0.0,veg,muscle_building
+Spinach,Vegetables,23,2.9,3.6,0.4,2.2,veg,weight_loss
+Broccoli,Vegetables,34,2.8,6.6,0.4,2.6,veg,weight_loss
+Sweet Potato,Vegetables,86,1.6,20.1,0.1,3.0,veg,maintenance
+Almonds,Nuts,579,21.2,21.6,49.9,12.5,veg,weight_gain
+Avocado,Fruits,160,2.0,8.5,14.7,6.7,veg,weight_gain
+Banana,Fruits,89,1.1,22.8,0.3,2.6,veg,maintenance
+Apple,Fruits,52,0.3,13.8,0.2,2.4,veg,weight_loss
+Oats,Grains,389,16.9,66.3,6.9,10.6,veg,weight_loss
+Lentils,Legumes,352,24.6,63.4,1.1,10.7,veg,muscle_building
+Chickpeas,Legumes,378,20.5,63.0,6.0,12.2,veg,muscle_building
+Tofu,Protein,144,17.3,2.8,9.0,2.3,vegan,muscle_building
+Olive Oil,Fats,884,0.0,0.0,100.0,0.0,veg,weight_gain
+Tuna,Protein,184,30.0,0.0,6.3,0.0,non_veg,muscle_building
+Turkey Breast,Protein,189,29.0,0.0,7.4,0.0,non_veg,muscle_building
+Cottage Cheese,Dairy,98,11.1,3.4,4.3,0.0,veg,weight_loss
+Peanut Butter,Nuts,588,25.8,20.0,50.4,6.0,veg,weight_gain
+Blueberries,Fruits,57,0.7,14.5,0.3,2.4,veg,weight_loss
+Carrots,Vegetables,41,0.9,9.6,0.2,2.8,veg,weight_loss
+Cauliflower,Vegetables,25,1.9,5.0,0.3,2.0,veg,weight_loss
+Kale,Vegetables,35,2.9,7.3,0.9,3.6,veg,weight_loss
+Chia Seeds,Seeds,486,17.0,42.1,30.7,34.4,veg,weight_gain
+Walnuts,Nuts,654,15.2,13.7,65.2,6.7,veg,weight_gain
+Black Beans,Legumes,341,21.6,62.4,1.4,15.0,veg,muscle_building
+Green Tea,Beverages,1,0.2,0.0,0.0,0.0,veg,weight_loss

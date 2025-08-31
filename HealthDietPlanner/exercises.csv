@@ -1,0 +1,26 @@
+exercise_name,category,intensity,calories_per_hour,target_muscle,equipment_needed,goal_suitability,duration_minutes
+Push-ups,Strength,Medium,350,Chest,None,muscle_building,15
+Squats,Strength,Medium,400,Legs,None,muscle_building,20
+Plank,Core,Low,200,Core,None,maintenance,10
+Burpees,Cardio,High,600,Full Body,None,weight_loss,15
+Jumping Jacks,Cardio,Medium,450,Full Body,None,weight_loss,20
+Mountain Climbers,Cardio,High,550,Full Body,None,weight_loss,15
+Lunges,Strength,Medium,350,Legs,None,muscle_building,15
+Deadlifts,Strength,High,500,Back,Weights,muscle_building,30
+Bench Press,Strength,High,450,Chest,Weights,muscle_building,30
+Pull-ups,Strength,High,400,Back,Pull-up Bar,muscle_building,15
+Bicycle Crunches,Core,Medium,300,Core,None,weight_loss,15
+Russian Twists,Core,Medium,250,Core,None,weight_loss,15
+High Knees,Cardio,Medium,400,Legs,None,weight_loss,10
+Walking,Cardio,Low,200,Legs,None,maintenance,60
+Jogging,Cardio,Medium,500,Legs,None,weight_loss,30
+Running,Cardio,High,700,Legs,None,weight_loss,30
+Yoga Flow,Flexibility,Low,180,Full Body,None,flexibility,45
+Stretching,Flexibility,Low,100,Full Body,None,flexibility,20
+Swimming,Cardio,Medium,600,Full Body,Pool,weight_loss,45
+Cycling,Cardio,Medium,550,Legs,Bicycle,weight_loss,45
+Weight Training,Strength,High,450,Full Body,Weights,muscle_building,45
+Pilates,Core,Medium,250,Core,None,flexibility,30
+Dancing,Cardio,Medium,400,Full Body,None,weight_loss,45
+Rowing,Cardio,High,650,Full Body,Rowing Machine,weight_loss,30
+Elliptical,Cardio,Medium,500,Full Body,Elliptical Machine,weight_loss,30
